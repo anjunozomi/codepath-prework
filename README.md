@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was my first time building an app through swift so it was a bit challenging to find the correct menus and buttons needed to complete each task.
+This was my first time building an app through XCode so it was a bit challenging to find the correct buttons needed to complete each task.
 
 ## License
 
