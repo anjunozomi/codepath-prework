@@ -4,8 +4,6 @@
 
 Submitted by: **Anju Jain**
 
-Time spent: **1** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is complete:
